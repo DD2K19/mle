@@ -1,0 +1,83 @@
+body{
+  background-color: #badfdb;
+}
+
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 10%;
+background-color: #badfdb
+}
+
+h1{
+  color: #45b29a;
+  font: 1.2em "Fira Sans", serif;
+  font-size: 50px;
+
+
+}
+h3{
+  color: #45b29a;
+  font: "Fira Sans", serif;
+  font-size: 1.5em;
+}
+
+a{
+  text-decoration: underline;
+  color: #ecfcff;
+  font: italic 1.2em "Fira Sans", serif;
+
+}
+
+p{
+  font: italic 1.2em "Fira Sans", serif;
+}
+
+ol{
+  font: 1.2em "Trebuchet MS", serif;
+  list-style: disc;
+}
+
+ul{
+  font: 1.2em "Trebuchet MS", serif;
+  list-style: disc ;
+}
+
+tr{
+  font: 1.2em "Trebuchet MS", serif;
+
+}
+
+.heading{
+  font: 1.2em "Fira Sans", serif;
+  font-size: 70px;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.Contactt{
+  font: 1.2em "Fira Sans", serif;
+  font-size: 70px;
+  text-align: center;
+  text-decoration: underline;
+  color: #45b29a;
+}
+label{
+  color: #45b29a;
+  font: "Fira Sans", serif;
+  font-size: 1.5em;
+  margin: auto;
+  width: 50%;
+
+}
+
+input{
+  margin: auto;
+  width: 30%
+}
+
+.inputa{
+  width: auto;
+}
